@@ -1,6 +1,6 @@
 # StudyRepository
 
-## My Awesome Repository
+## My First Repository
 
 ## My Project Plan
 
